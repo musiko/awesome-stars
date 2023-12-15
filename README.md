@@ -286,7 +286,7 @@
 - [Eyescale/Equalizer](https://github.com/Eyescale/Equalizer) - Equalizer is the standard middleware to create and deploy parallel OpenGL-based applications. It enables applications to benefit from multiple graphics cards, processors and computers to scale the ren
 - [jeffcrouse/CodeForArt](https://github.com/jeffcrouse/CodeForArt) - Sample code for my class, Code For Art, at the Parsons Design and Technology program
 - [NickHardeman/ofxTweenzor](https://github.com/NickHardeman/ofxTweenzor) - Tweening Engine for OpenFrameworks
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52393, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52545, 3.3.5 = 3.3.5a.12340)
 - [avin2/SensorKinect](https://github.com/avin2/SensorKinect) - PrimeSensor Modules for OpenNI
 - [doug/depthjs](https://github.com/doug/depthjs) - DepthJS allows any web page to interact with the Microsoft Kinect using Javascript.
 - [labatrockwell/openTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP
