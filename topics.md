@@ -1095,6 +1095,7 @@
 
 ## others 
 
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
@@ -1226,7 +1227,7 @@
 - [JamesBear/vive_ik_demo](https://github.com/JamesBear/vive_ik_demo) - A full body tracking demo using HTC Vive and Trackers
 - [marcwieserdev/UE4-LeapMotionPlugin](https://github.com/marcwieserdev/UE4-LeapMotionPlugin) - A plugin for exposing Leap Motion SDK to UE4 blueprint
 - [geniikw/drawLine](https://github.com/geniikw/drawLine) - draw line in unity3d
-- [elringus/BlendModeExample](https://github.com/elringus/BlendModeExample) - Example project for "Blend Modes in Unity" article
+- [elringus/blend-modes-example](https://github.com/elringus/blend-modes-example) - Example project for "Blend Modes in Unity" article
 - [keijiro/Skinner](https://github.com/keijiro/Skinner) - Special Effects with Skinned Mesh in Unity
 - [playdeadgames/temporal](https://github.com/playdeadgames/temporal) - Temporal Reprojection Anti-Aliasing for Unity 5.0+
 - [antimodular/ofxCv_stitch](https://github.com/antimodular/ofxCv_stitch) - opencv2 panorama stitching
