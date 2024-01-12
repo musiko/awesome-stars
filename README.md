@@ -286,7 +286,7 @@
 - [Eyescale/Equalizer](https://github.com/Eyescale/Equalizer) - Equalizer is the standard middleware to create and deploy parallel OpenGL-based applications. It enables applications to benefit from multiple graphics cards, processors and computers to scale the ren
 - [jeffcrouse/CodeForArt](https://github.com/jeffcrouse/CodeForArt) - Sample code for my class, Code For Art, at the Parsons Design and Technology program
 - [NickHardeman/ofxTweenzor](https://github.com/NickHardeman/ofxTweenzor) - Tweening Engine for OpenFrameworks
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52649, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52808, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 - [avin2/SensorKinect](https://github.com/avin2/SensorKinect) - PrimeSensor Modules for OpenNI
 - [doug/depthjs](https://github.com/doug/depthjs) - DepthJS allows any web page to interact with the Microsoft Kinect using Javascript.
 - [labatrockwell/openTSPS](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP
@@ -319,6 +319,7 @@
 
 ## Go 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -326,7 +327,6 @@
 - [acheong08/obi-sync](https://github.com/acheong08/obi-sync) - Reverse engineering of the native Obsidian sync and publish server
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
@@ -637,6 +637,7 @@
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [garystafford/kafka-connect-msk-demo](https://github.com/garystafford/kafka-connect-msk-demo) - For a series of posts on Amazon MSK, Amazon EKS, and Amazon EMR
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
