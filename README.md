@@ -346,6 +346,7 @@
 
 ## HCL 
 
+- [alphagov/govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure) - Terraform turnup automation for the EKS Kubernetes clusters that host GOV.UK. See https://github.com/alphagov/govuk-helm-charts for application config.
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
