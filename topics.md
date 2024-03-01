@@ -13,6 +13,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -256,6 +257,10 @@
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 
+## archlinux 
+
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: hyprland/sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+
 ## arduino 
 
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
@@ -325,6 +330,7 @@
 
 ## aws 
 
+- [alphagov/govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure) - Terraform turnup automation for the EKS Kubernetes clusters that host GOV.UK. See https://github.com/alphagov/govuk-helm-charts for application config.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -1767,6 +1773,7 @@
 
 ## terraform 
 
+- [alphagov/govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure) - Terraform turnup automation for the EKS Kubernetes clusters that host GOV.UK. See https://github.com/alphagov/govuk-helm-charts for application config.
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [brikis98/terraform-up-and-running-code](https://github.com/brikis98/terraform-up-and-running-code) - Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman
