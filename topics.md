@@ -43,6 +43,7 @@
 - [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -278,6 +279,7 @@
 ## automation 
 
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [joneldiablo/objection-model-generator](https://github.com/joneldiablo/objection-model-generator) - automagically generate all ObjectionJS models from Mysql
@@ -288,6 +290,7 @@
 ## awesome 
 
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -487,6 +490,10 @@
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 
+## dart 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
 ## data 
 
 - [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - dbt package that is part of Elementary, the dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service wit
@@ -568,6 +575,7 @@
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -672,6 +680,7 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
@@ -680,6 +689,7 @@
 
 ## flutter-apps 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
@@ -1132,6 +1142,8 @@
 
 ## others 
 
+- [mattsta/ib_insync](https://github.com/mattsta/ib_insync) - Sadly, the orignial creator Ewald has died and now we must continue without his years of experience creating and growing this project. See the 'Discussions' tab for organization planning. Python sync/
+- [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -1359,7 +1371,7 @@
 - [joshuajnoble/ofxKinectV2](https://github.com/joshuajnoble/ofxKinectV2) - of addon for Kinect V2
 - [robcupisz/LightShafts](https://github.com/robcupisz/LightShafts) - A light shafts (volumetric shadows) effect for Unity.
 - [bakercp/ofxHTTP](https://github.com/bakercp/ofxHTTP) - A suite of HTTP tools, including clients and servers for openFrameworks.
-- [jderrough/UnitySlippyMap](https://github.com/jderrough/UnitySlippyMap) - A slippy map implementation written in C# for Unity3D
+- [jondewoo/UnitySlippyMap](https://github.com/jondewoo/UnitySlippyMap) - A slippy map implementation written in C# for Unity3D
 - [fholm/unityassets](https://github.com/fholm/unityassets) - Assorted unity assets and utilities
 - [pbhogan/InControl](https://github.com/pbhogan/InControl) - An input manager for Unity that tames the cross-platform controller beast.
 - [moostrik/ofxFlowTools](https://github.com/moostrik/ofxFlowTools) - openframeworks addon. Combines 2D fluid simulation, optical flow and more using GLSL shaders. Works best with live camera input.
