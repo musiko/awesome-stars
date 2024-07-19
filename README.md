@@ -54,7 +54,7 @@
 ## C 
 
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [LingDong-/skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images
