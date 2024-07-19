@@ -576,7 +576,7 @@
 - [adileo/awesome-identifiers](https://github.com/adileo/awesome-identifiers) - Pick the best database primary key
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
@@ -1212,7 +1212,7 @@
 
 ## nosql 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
 ## numpy 
