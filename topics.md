@@ -369,7 +369,7 @@
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [ris-tlp/audiophile-e2e-pipeline](https://github.com/ris-tlp/audiophile-e2e-pipeline) - Pipeline that extracts data from Crinacle's Headphone and InEarMonitor databases and finalizes data for a Metabase Dashboard.
 - [aws-samples/aws-vpc-builder-cdk](https://github.com/aws-samples/aws-vpc-builder-cdk) - Using a configuration file alone, deploy complex AWS Network Architectures using the AWS CDK to learn from and explore!
 - [garystafford/kafka-connect-msk-demo](https://github.com/garystafford/kafka-connect-msk-demo) - For a series of posts on Amazon MSK, Amazon EKS, and Amazon EMR
@@ -541,7 +541,7 @@
 
 ## csharp 
 
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [EsProgram/InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity.
 - [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -882,7 +882,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1008,7 +1008,7 @@
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [farzher/fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [DataGridXL/DataGridXL2](https://github.com/DataGridXL/DataGridXL2) - Excel-like Experience for Web Apps (The performant & reliable Vanilla Javascript data grid with Excel-like controls)
@@ -1211,7 +1211,7 @@
 ## nextjs 
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [serverless-nextjs/serverless-next.js](https://github.com/serverless-nextjs/serverless-next.js) - ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
@@ -1724,7 +1724,7 @@
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [ris-tlp/audiophile-e2e-pipeline](https://github.com/ris-tlp/audiophile-e2e-pipeline) - Pipeline that extracts data from Crinacle's Headphone and InEarMonitor databases and finalizes data for a Metabase Dashboard.
 - [idanya/algo-trader](https://github.com/idanya/algo-trader) - Trading bot with support for realtime trading, backtesting, custom strategies and much more.
@@ -1816,7 +1816,7 @@
 ## reactjs 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [tyroprogrammer/learn-react-app](https://github.com/tyroprogrammer/learn-react-app) - Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the
@@ -1904,7 +1904,7 @@
 
 ## serverless 
 
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -2011,7 +2011,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
