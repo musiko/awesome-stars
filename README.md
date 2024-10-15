@@ -665,7 +665,7 @@
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
