@@ -231,6 +231,7 @@
 
 ## algorithm 
 
+- [twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
@@ -584,6 +585,7 @@
 
 ## data-structures 
 
+- [twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
