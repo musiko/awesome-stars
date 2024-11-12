@@ -90,7 +90,7 @@
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [zalo/MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
-- [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
+- [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to deco
 - [keijiro/FFmpegRecorder](https://github.com/keijiro/FFmpegRecorder) - FFmpeg extension for Unity Recorder
 - [andydbc/unity-frosted-glass](https://github.com/andydbc/unity-frosted-glass) - :snowflake: Test of a frosted glass material in Unity.
 - [AsehesL/FogOfWar](https://github.com/AsehesL/FogOfWar) - unity下一种基于渲染可见区域的战争迷雾
@@ -585,7 +585,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-- [EB-Dodo/C-MS-Celeb](https://github.com/EB-Dodo/C-MS-Celeb) - A clean version (wash list) of  MS-Celeb-1M face dataset, containing 6,464,018 face images of 94,682 celebrities
+- [ruochunjin/C-MS-Celeb](https://github.com/ruochunjin/C-MS-Celeb) - A clean version (wash list) of  MS-Celeb-1M face dataset, containing 6,464,018 face images of 94,682 celebrities
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
