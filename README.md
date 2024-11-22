@@ -99,7 +99,7 @@
 - [monry/JWT-for-Unity](https://github.com/monry/JWT-for-Unity) - JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain)
 - [GlitchEnzo/NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 - [n-yoda/unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
-- [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
+- [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [Unity3dAzure/RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
 - [inoook/UnityURG](https://github.com/inoook/UnityURG) - URG for unity3d
 - [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
@@ -373,6 +373,7 @@
 - [omgmog/uxofvr.com](https://github.com/omgmog/uxofvr.com) - A list of resources about the UI/UX considerations for VR.
 - [ResEnv/SensorTape](https://github.com/ResEnv/SensorTape) - Hardware and Software source files for sensor tape project
 - [Estimote/iOS-Fleet-Management-SDK](https://github.com/Estimote/iOS-Fleet-Management-SDK) - Estimote Fleet Management SDK for iOS
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 
@@ -503,6 +504,7 @@
 
 ## Jupyter Notebook 
 
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI,
@@ -610,7 +612,6 @@
 - [benkuper/Unity-Plugins](https://github.com/benkuper/Unity-Plugins) - My collection of Unity Plugins
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [ofTheo/ofDirectShowVideoPlayer](https://github.com/ofTheo/ofDirectShowVideoPlayer) - ofDirectShowVideoPlayer contains DirectShowVideo a C++ class that allows for video playback and pixel access and ofDirectShowVideoPlayer, an openFrameworks wrapper.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [logotype/LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Leap Motion AS3 API.
 - [adafruit/Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) - Adafruit library code for Raspberry Pi
 - [ofTheo/kinectArmTracker](https://github.com/ofTheo/kinectArmTracker) - 
@@ -742,6 +743,7 @@
 
 ## Rust 
 
+- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -781,7 +783,7 @@
 - [twobitcircus/rpi-build-and-boot](https://github.com/twobitcircus/rpi-build-and-boot) - 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Sensebloom/OSCeleton](https://github.com/Sensebloom/OSCeleton) - OSCeleton is a proxy that sends skeleton information collected from the kinect sensor via OSC, making it easier to use input from the device in any language / framework that supports the OSC protocol.
-- [apostrophecms/stagecoach](https://github.com/apostrophecms/stagecoach) - Painlessly deploy node.js applications to your staging and production servers. Use a standard VPS or dedicated server to host both Node and traditional Apache-based websites. Pairs nicely with nginx a
+- [apostrophecms-legacy/stagecoach](https://github.com/apostrophecms-legacy/stagecoach) - Painlessly deploy node.js applications to your staging and production servers. Use a standard VPS or dedicated server to host both Node and traditional Apache-based websites. Pairs nicely with nginx a
 
 ## Svelte 
 
