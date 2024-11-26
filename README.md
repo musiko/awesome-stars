@@ -656,6 +656,7 @@
 
 ## Python 
 
+- [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PolicyEngine/policyengine-uk](https://github.com/PolicyEngine/policyengine-uk) - The UK's only open-source static tax-benefit microsimulation model.
