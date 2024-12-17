@@ -97,6 +97,7 @@
 - [EsProgram/InkPainter](https://github.com/EsProgram/InkPainter) - Texture-Paint on Unity.
 - [karasusan/OpenVDBForUnity](https://github.com/karasusan/OpenVDBForUnity) - Unity plugins for OpenVDB
 - [monry/JWT-for-Unity](https://github.com/monry/JWT-for-Unity) - JWT (JSON Web Token) implementation for .NET 3.5+ (Public Domain)
+- [ClaytonIndustries/HttpClient](https://github.com/ClaytonIndustries/HttpClient) - Http Client is a plugin that makes it easy to make HTTP / HTTPS REST calls in Unity games
 - [GlitchEnzo/NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 - [n-yoda/unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
@@ -483,7 +484,7 @@
 - [chandlerprall/Physijs](https://github.com/chandlerprall/Physijs) - Physics plugin for Three.js
 - [jawj/websocket-kinect](https://github.com/jawj/websocket-kinect) - Streams Kinect data over binary WebSockets to web clients, which visualise using Three.js/WebGL (currently Chrome and Firefox 11+  only)
 - [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [vnoise/vtouch](https://github.com/vnoise/vtouch) - Multitouch HTML5 Canvas Ableton Live Remote Control
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [nature-of-code/The-Nature-of-Code-archive](https://github.com/nature-of-code/The-Nature-of-Code-archive) - The very first build system for The Nature of Code
@@ -603,7 +604,6 @@
 - [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [ClaytonIndustries/HttpClient](https://github.com/ClaytonIndustries/HttpClient) - Http Client is a plugin that makes it easy to make HTTP / HTTPS REST calls in Unity games
 - [brooklynmuseum/ibeacons](https://github.com/brooklynmuseum/ibeacons) - ibeacon detection code and admin tools
 - [keijiro/DabrovicSponza](https://github.com/keijiro/DabrovicSponza) - An attempt at rendering the "Dabrovic Sponza" scene with Unity.
 - [laserpilot/Guide_To_Projectors_For_Interactive_Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations) - Article Repo for a Guide to Projectors
