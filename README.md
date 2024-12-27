@@ -24,6 +24,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Max](#max)
 - [Objective-C](#objective-c)
@@ -403,6 +404,7 @@
 ## JavaScript 
 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -531,6 +533,10 @@
 - [tado/BeyondInteraction_2nd_examples](https://github.com/tado/BeyondInteraction_2nd_examples) - 書籍「Beyond Interaction[改訂第2版] -クリエイティブ・コーディングのためのopenFrameworks実践ガイド」のサンプルプログラム
 - [tado/BeyondInteraction](https://github.com/tado/BeyondInteraction) - openFrameworks examples for the book "Beyond Interaction".
 
+## Markdown 
+
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+
 ## Mathematica 
 
 - [AndrewHazelden/Panoramic_Geometry_Collection](https://github.com/AndrewHazelden/Panoramic_Geometry_Collection) - This collection of panoramic geometry files can be handy for previewing immersive imagery in your 3D program.
@@ -612,7 +618,6 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [MattRix/UnityDecompiled](https://github.com/MattRix/UnityDecompiled) - Now unnecessary, use the official code instead: https://github.com/Unity-Technologies/UnityCsReference
 - [benkuper/Unity-Plugins](https://github.com/benkuper/Unity-Plugins) - My collection of Unity Plugins
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [ofTheo/ofDirectShowVideoPlayer](https://github.com/ofTheo/ofDirectShowVideoPlayer) - ofDirectShowVideoPlayer contains DirectShowVideo a C++ class that allows for video playback and pixel access and ofDirectShowVideoPlayer, an openFrameworks wrapper.
 - [logotype/LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - Leap Motion AS3 API.
 - [adafruit/Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) - Adafruit library code for Raspberry Pi
@@ -658,6 +663,7 @@
 
 ## Python 
 
+- [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
 - [l-mds/local-data-stack](https://github.com/l-mds/local-data-stack) - 
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
@@ -792,7 +798,6 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
 - [gitpod-io/full-stack-web-development](https://github.com/gitpod-io/full-stack-web-development) - The source code for the "Full Stack Web Development in the Cloud" course.
 
