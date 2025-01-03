@@ -340,6 +340,7 @@
 - [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
 - [acheong08/obi-sync](https://github.com/acheong08/obi-sync) - Reverse engineering of the native Obsidian sync and publish server
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -367,6 +368,7 @@
 
 ## HTML 
 
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [adileo/awesome-identifiers](https://github.com/adileo/awesome-identifiers) - Pick the best database primary key
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
@@ -782,7 +784,6 @@
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose) - docker compose files to create a fully working kafka stack
 - [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev) - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, , 20+ connectors
 - [aws-samples/cfn101-workshop](https://github.com/aws-samples/cfn101-workshop) - AWS CloudFormation Workshop
