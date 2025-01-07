@@ -370,7 +370,7 @@
 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [adileo/awesome-identifiers](https://github.com/adileo/awesome-identifiers) - Pick the best database primary key
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -665,6 +665,7 @@
 
 ## Python 
 
+- [ByteByteGoHq/coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 - [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
 - [l-mds/local-data-stack](https://github.com/l-mds/local-data-stack) - 
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
@@ -812,6 +813,7 @@
 
 ## TypeScript 
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
