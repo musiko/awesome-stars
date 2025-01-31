@@ -573,7 +573,7 @@
 - [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified) - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work 👇
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at work 👇
 - [Coder-World04/Tech-Interview-Important-Topics-and-Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques) - This repository contains everything you need to become tech interview Ready with most important tips and techniques
 - [Coder-World04/Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
@@ -668,7 +668,7 @@
 
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
-- [l-mds/local-data-stack](https://github.com/l-mds/local-data-stack) - 
+- [l-mds/local-data-stack](https://github.com/l-mds/local-data-stack) - Slow & local data allows you to move fast and deliver business value for the 99.9% of the data challenges.
 - [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
