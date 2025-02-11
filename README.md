@@ -130,7 +130,7 @@
 - [f15gdsy/2D-Light-of-Sight-Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity) - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3d.
 - [keijiro/KvantWall](https://github.com/keijiro/KvantWall) - GPU accelerated object array animator for Unity
 - [i-saint/Unity5Effects](https://github.com/i-saint/Unity5Effects) - 
-- [InvexGames/MaterialUI](https://github.com/InvexGames/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
+- [DecSmith42/MaterialUI](https://github.com/DecSmith42/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
 - [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 - [Chman/SMAA](https://github.com/Chman/SMAA) - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity
 - [keijiro/VJ02](https://github.com/keijiro/VJ02) - VJ project for Channel #8
