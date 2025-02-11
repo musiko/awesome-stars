@@ -1518,7 +1518,7 @@
 - [f15gdsy/2D-Light-of-Sight-Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity) - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3d.
 - [keijiro/KvantWall](https://github.com/keijiro/KvantWall) - GPU accelerated object array animator for Unity
 - [i-saint/Unity5Effects](https://github.com/i-saint/Unity5Effects) - 
-- [InvexGames/MaterialUI](https://github.com/InvexGames/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
+- [DecSmith42/MaterialUI](https://github.com/DecSmith42/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
 - [braitsch/ofxDatGui](https://github.com/braitsch/ofxDatGui) - Simple to use, fully customizable, high-resolution graphical user interface for openFrameworks
 - [atduskgreg/ofxUVC](https://github.com/atduskgreg/ofxUVC) - OpenFrameworks addon for controlling UVC cameras
 - [ofZach/inkSpace](https://github.com/ofZach/inkSpace) - android drawing tool
