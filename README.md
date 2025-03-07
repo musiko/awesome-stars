@@ -274,7 +274,7 @@
 - [yusuketomoto/ofxTldTracker](https://github.com/yusuketomoto/ofxTldTracker) - TLD Tracker addon for openFrameworks
 - [ofTheo/ofxLeapMotion](https://github.com/ofTheo/ofxLeapMotion) - A wrapper for the Leap SDK ( 0.8.1 and up ) - compatible with Leap 1.0 Release
 - [cadet-salzburg/_2RealGStreamerWrapper](https://github.com/cadet-salzburg/_2RealGStreamerWrapper) - Easy to use wrapper for GStreamer to play videos and audio for C++
-- [itotaka/ofxTimeline_backup](https://github.com/itotaka/ofxTimeline_backup) - lightweight timeline tools for openFrameworks
+- [itotaka/ofxTimeline_backup__](https://github.com/itotaka/ofxTimeline_backup__) - lightweight timeline tools for openFrameworks
 - [flight404/Eyeo2012](https://github.com/flight404/Eyeo2012) - Projects I created for my talk at the Eyeo Festival.
 - [perfume-dev/example-openFrameworks](https://github.com/perfume-dev/example-openFrameworks) - 
 - [AS3NUI/airkinect-2-core](https://github.com/AS3NUI/airkinect-2-core) - AIRKinect 2.0 Core
