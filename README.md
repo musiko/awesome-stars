@@ -148,7 +148,7 @@
 
 ## C++ 
 
-- [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Postgres-native Data Warehouse
+- [Mooncake-Labs/pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake) - Postgres-Native Data Warehouse
 - [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
@@ -279,7 +279,6 @@
 - [flight404/Eyeo2012](https://github.com/flight404/Eyeo2012) - Projects I created for my talk at the Eyeo Festival.
 - [perfume-dev/example-openFrameworks](https://github.com/perfume-dev/example-openFrameworks) - 
 - [AS3NUI/airkinect-2-core](https://github.com/AS3NUI/airkinect-2-core) - AIRKinect 2.0 Core
-- [rezaali/ofxUI](https://github.com/rezaali/ofxUI) - [DEPRECATED] UI Addon for openFrameworks
 - [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
 - [patriciogonzalezvivo/ofxFX](https://github.com/patriciogonzalezvivo/ofxFX) - Unlocking the GPU Power on openFrameworks with this add-on for that make easy to use GLSL Shaders
 - [gnebehay/OpenTLD](https://github.com/gnebehay/OpenTLD) - A C++ implementation of OpenTLD
@@ -371,7 +370,6 @@
 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [adileo/awesome-identifiers](https://github.com/adileo/awesome-identifiers) - Pick the best database primary key
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [elementary-data/elementary](https://github.com/elementary-data/elementary) - The dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service with premium features.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -413,6 +411,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [farzher/fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.
