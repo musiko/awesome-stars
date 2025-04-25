@@ -55,6 +55,7 @@
 
 ## C 
 
+- [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) - 
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
@@ -663,7 +664,7 @@
 
 ## PLpgSQL 
 
-- [tembo-io/pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [ChuckHend/pgmq](https://github.com/ChuckHend/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 
 ## Processing 
 
@@ -673,6 +674,7 @@
 
 ## Python 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [arpanghosh8453/fitbit-web-ui-app](https://github.com/arpanghosh8453/fitbit-web-ui-app) - A Web dashboard where you can view your Fitbit yearly trends as a wellness report and download it as PDF
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
@@ -687,7 +689,7 @@
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [PolicyEngine/policyengine-uk](https://github.com/PolicyEngine/policyengine-uk) - The UK's only open-source static tax-benefit microsimulation model.
+- [PolicyEngine/policyengine-uk](https://github.com/PolicyEngine/policyengine-uk) - An open-source static tax-benefit microsimulation model for the UK.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
