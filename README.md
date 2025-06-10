@@ -707,7 +707,7 @@
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
@@ -834,7 +834,7 @@
 
 ## TypeScript 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
