@@ -23,6 +23,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -189,7 +190,7 @@
 - [HalfdanJ/ofxFaceTracker2](https://github.com/HalfdanJ/ofxFaceTracker2) - Landmark detection addon for openFrameworks using DLIB
 - [psmoveservice/PSMoveService](https://github.com/psmoveservice/PSMoveService) - A background service that communicates with the psmove and stores pose and button data.
 - [aybassiouny/OpenFaceCpp](https://github.com/aybassiouny/OpenFaceCpp) - C++ implementation for OpenFace library by CMU.
-- [memo/ofxMSATensorFlow](https://github.com/memo/ofxMSATensorFlow) - C++ openframeworks addon and examples integrating Google's TensorFlow numerical computation and machine learning library
+- [memoakten/ofxMSATensorFlow](https://github.com/memoakten/ofxMSATensorFlow) - C++ openframeworks addon and examples integrating Google's TensorFlow numerical computation and machine learning library
 - [2bbb/ofxPubSubOsc](https://github.com/2bbb/ofxPubSubOsc) - bind OSC messages and values with only writing tiny codes on setup once.
 - [armadillu/ofxTimeMeasurements](https://github.com/armadillu/ofxTimeMeasurements) - OpenFrameworks add-on to easily measure execution times on different parts of your code.
 - [ofZach/dayForNightSFPC](https://github.com/ofZach/dayForNightSFPC) - day for night project from SFPC
@@ -391,7 +392,6 @@
 - [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 - [ByteByteGoHq/coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
-- [twowaits/SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
@@ -535,6 +535,10 @@
 
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, walker, dunst; OS: NixOS, ArchLinux (Ubuntu/Fedora/CentOS)
 
+## MDX 
+
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+
 ## Makefile 
 
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
@@ -575,7 +579,6 @@
 ## Others 
 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
@@ -624,7 +627,7 @@
 - [brooklynmuseum/ibeacons](https://github.com/brooklynmuseum/ibeacons) - ibeacon detection code and admin tools
 - [keijiro/DabrovicSponza](https://github.com/keijiro/DabrovicSponza) - An attempt at rendering the "Dabrovic Sponza" scene with Unity.
 - [laserpilot/Guide_To_Projectors_For_Interactive_Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations) - Article Repo for a Guide to Projectors
-- [memo/ai-resources](https://github.com/memo/ai-resources) - Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning
+- [memoakten/ai-resources](https://github.com/memoakten/ai-resources) - Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning
 - [VoxelBoy/Resources-for-Writing-Shaders-in-Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity) - For the UNITE Boston 2015 talk titled Writing Shaders: YOU can do it!
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [MattRix/UnityDecompiled](https://github.com/MattRix/UnityDecompiled) - Now unnecessary, use the official code instead: https://github.com/Unity-Technologies/UnityCsReference
@@ -674,6 +677,7 @@
 
 ## Python 
 
+- [google/megalista](https://github.com/google/megalista) - First Party data integration solution built for marketing teams to enable audience and conversion onboarding into Google Marketing products (Google Ads, Campaign Manager, Google Analytics).
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
@@ -869,7 +873,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 208 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 209 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives, etc.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
