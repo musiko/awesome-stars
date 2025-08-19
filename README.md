@@ -72,7 +72,6 @@
 - [underdoeg/ofxURG](https://github.com/underdoeg/ofxURG) - Wrapper to use Hokuyo URG-04LX sensors in openframeworks
 - [antimodular/ofxCv_stitch](https://github.com/antimodular/ofxCv_stitch) - opencv2 panorama stitching
 - [thp/psmoveapi](https://github.com/thp/psmoveapi) - Cross-platform library for 6DoF tracking of the PS Move Motion Controller. Sensor fusion, computer vision, ambient display (LED orb).
-- [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
 - [selflash/Face-morphing-with-openFrameworks](https://github.com/selflash/Face-morphing-with-openFrameworks) - 
 - [robandrose/ofxIntersection](https://github.com/robandrose/ofxIntersection) - Helper or Intersections between lines and planes
 - [mfargo/ofxFilterLibrary](https://github.com/mfargo/ofxFilterLibrary) - An openFrameworks addon with a bunch of shader-based filters
@@ -478,6 +477,7 @@
 - [firtoz/react-three-renderer](https://github.com/firtoz/react-three-renderer) - Render into a three.js canvas using React.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [dantrain/react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React
+- [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 - [spite/polygon-shredder](https://github.com/spite/polygon-shredder) - The polygon shredder that takes many cubes and turns them into confetti
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
@@ -582,7 +582,7 @@
 
 ## Others 
 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
@@ -681,6 +681,8 @@
 
 ## Python 
 
+- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
+- [titipata/pubmed_parser](https://github.com/titipata/pubmed_parser) - :clipboard: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -851,6 +853,7 @@
 
 ## TypeScript 
 
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
