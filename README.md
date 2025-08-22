@@ -61,6 +61,7 @@
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [LingDong-/skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -341,7 +342,6 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [Kethsar/ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
 - [acheong08/obi-sync](https://github.com/acheong08/obi-sync) - Reverse engineering of the native Obsidian sync and publish server
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -692,7 +692,7 @@
 - [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh) - Scalable and efficient data transformation framework - backwards compatible with dbt.
 - [google/megalista](https://github.com/google/megalista) - First Party data integration solution built for marketing teams to enable audience and conversion onboarding into Google Marketing products (Google Ads, Campaign Manager, Google Analytics).
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [arpanghosh8453/fitbit-web-ui-app](https://github.com/arpanghosh8453/fitbit-web-ui-app) - A Web dashboard where you can view your Fitbit yearly trends as a wellness report and download it as PDF
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
@@ -752,7 +752,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [bkane1/gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
