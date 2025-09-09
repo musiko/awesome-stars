@@ -682,6 +682,7 @@
 
 ## Python 
 
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [titipata/pubmed_parser](https://github.com/titipata/pubmed_parser) - :clipboard: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset
@@ -855,6 +856,7 @@
 
 ## TypeScript 
 
+- [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
