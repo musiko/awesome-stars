@@ -108,7 +108,7 @@
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 - [Unity3dAzure/RESTClient](https://github.com/Unity3dAzure/RESTClient) - REST Client for Unity with JSON and XML parsing. (Features JSON helper to handle nested arrays and deserializing abstract types)
 - [inoook/UnityURG](https://github.com/inoook/UnityURG) - URG for unity3d
-- [codebude/QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation
+- [Shane32/QRCoder](https://github.com/Shane32/QRCoder) - A pure C# Open Source QR Code implementation
 - [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
 - [SlightlyMad/VolumetricLights](https://github.com/SlightlyMad/VolumetricLights) - Volumetric Lights for Unity
 - [JamesBear/vive_ik_demo](https://github.com/JamesBear/vive_ik_demo) - A full body tracking demo using HTC Vive and Trackers
@@ -684,6 +684,7 @@
 
 ## Python 
 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
