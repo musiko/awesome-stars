@@ -368,6 +368,7 @@
 
 ## HCL 
 
+- [GoogleCloudPlatform/dataflow-solution-guides](https://github.com/GoogleCloudPlatform/dataflow-solution-guides) - The Dataflow Solution Guides offer full end-to-end deployment for the most common streaming solutions to run on Dataflow.
 - [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) - End-to-end modular samples and landing zones toolkit for Terraform on GCP.
 - [alphagov/govuk-infrastructure](https://github.com/alphagov/govuk-infrastructure) - This repository contains all the code and infrastructure to run the GOV.UK Platform. See https://github.com/alphagov/govuk-helm-charts for application config. Issues created in this repository are for
 - [terraform-google-modules/terraform-example-foundation](https://github.com/terraform-google-modules/terraform-example-foundation) - Shows how the CFT modules can be composed to build a secure cloud foundation
