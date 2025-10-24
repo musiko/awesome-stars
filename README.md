@@ -415,6 +415,7 @@
 
 ## JavaScript 
 
+- [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -687,7 +688,6 @@
 
 - [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
@@ -723,7 +723,7 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [mattsta/ib_insync](https://github.com/mattsta/ib_insync) - Live upstream is now at https://github.com/ib-api-reloaded/ib_async; sadly, the orignial creator Ewald has died and now we must continue without his years of experience creating and growing this proje
@@ -835,6 +835,7 @@
 
 ## Shell 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
