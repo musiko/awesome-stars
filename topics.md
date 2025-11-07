@@ -24,7 +24,6 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
-- [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [bugbounty](#bugbounty)
@@ -194,6 +193,7 @@
 - [software](#software)
 - [spring](#spring)
 - [sql](#sql)
+- [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [storybook](#storybook)
@@ -243,12 +243,13 @@
 
 ## ai 
 
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -259,7 +260,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -452,10 +453,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-
-## blockchain 
-
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 
 ## bootstrap 
 
@@ -696,7 +693,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
@@ -710,11 +707,11 @@
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [litedb-org/LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 
@@ -795,7 +792,7 @@
 
 ## docker 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico) - A delightful Firefly III companion web app for effortless transaction tracking
 - [l-mds/local-data-stack](https://github.com/l-mds/local-data-stack) - Slow & local data allows you to move fast and deliver business value for the 99.9% of the data challenges.
@@ -899,7 +896,7 @@
 
 ## flask 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## flutter 
 
@@ -992,7 +989,7 @@
 ## github 
 
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
 ## go 
@@ -1062,7 +1059,7 @@
 
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team colla
@@ -1075,7 +1072,6 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [arc42/arc42-template](https://github.com/arc42/arc42-template) - arc42 - the template for software architecture documentation and communication
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1154,7 +1150,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [limhenry/web-bluetooth-mi-scale](https://github.com/limhenry/web-bluetooth-mi-scale) - Web App for Xiaomi Mi Scale using Web Bluetooth Scanning API
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 
@@ -1266,6 +1262,7 @@
 
 ## linux 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
@@ -1276,6 +1273,7 @@
 
 ## llm 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -1285,7 +1283,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## low-code 
@@ -1352,7 +1350,7 @@
 
 ## mongodb 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - The Query Builder component for React
 
@@ -1367,6 +1365,7 @@
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [joneldiablo/objection-model-generator](https://github.com/joneldiablo/objection-model-generator) - automagically generate all ObjectionJS models from Mysql
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [ezSQL/ezsql](https://github.com/ezSQL/ezsql) - PHP class to make interacting with a database ridiculusly easy
@@ -1432,7 +1431,7 @@
 
 ## numpy 
 
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
 ## obsidian 
 
@@ -1490,6 +1489,7 @@
 
 ## others 
 
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 - [intruder-io/autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
@@ -1929,7 +1929,7 @@
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 
 ## powershell 
@@ -1950,6 +1950,7 @@
 
 ## programming 
 
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI,
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1984,7 +1985,7 @@
 - [PolicyEngine/policyengine-uk](https://github.com/PolicyEngine/policyengine-uk) - An open-source static tax-benefit microsimulation model for the UK.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security for AWS, Azure, GCP, Kubernetes, M365 and more. As agent-less, it helps for continuous monitoring, security assessments & audits, incident response, compliance, hard
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -2019,7 +2020,7 @@
 ## python3 
 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 
 ## pytorch 
@@ -2124,7 +2125,7 @@
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -2152,7 +2153,7 @@
 
 ## self-hosted 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -2211,14 +2212,18 @@
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [mistic100/jQuery-QueryBuilder](https://github.com/mistic100/jQuery-QueryBuilder) - jQuery plugin offering an interface to create complex queries
 - [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - The Query Builder component for React
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 - [ezSQL/ezsql](https://github.com/ezSQL/ezsql) - PHP class to make interacting with a database ridiculusly easy
+
+## sql-server 
+
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents Create up-to-the-second views into your business, just using SQL
 
 ## sqlite 
 
@@ -2438,6 +2443,7 @@
 
 ## windows 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
