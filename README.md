@@ -36,6 +36,7 @@
 - [Processing](#processing)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -387,7 +388,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
-- [omgmog/uxofvr.com](https://github.com/omgmog/uxofvr.com) - A list of resources about the UI/UX considerations for VR.
 - [ResEnv/SensorTape](https://github.com/ResEnv/SensorTape) - Hardware and Software source files for sensor tape project
 - [Estimote/iOS-Fleet-Management-SDK](https://github.com/Estimote/iOS-Fleet-Management-SDK) - Estimote Fleet Management SDK for iOS
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
@@ -399,7 +399,6 @@
 - [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 - [ByteByteGoHq/coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -416,9 +415,7 @@
 
 ## JavaScript 
 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI,
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -743,7 +740,7 @@
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [ris-tlp/audiophile-e2e-pipeline](https://github.com/ris-tlp/audiophile-e2e-pipeline) - Pipeline that extracts data from Crinacle's Headphone and InEarMonitor databases and finalizes data for a Metabase Dashboard. The dashboard is then used to support a purchasing decision of which Headp
-- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - dbt package that is part of Elementary, the dbt-native data observability solution for data & analytics engineers. Monitor your data pipelines in minutes. Available as self-hosted or cloud service wit
+- [elementary-data/dbt-data-reliability](https://github.com/elementary-data/dbt-data-reliability) - This dbt package captures metadata, artifacts, and test results so you can detect anomalies, monitor data quality, and build metadata tables. It powers Elementary OSS and feeds the wider context layer
 - [idanya/algo-trader](https://github.com/idanya/algo-trader) - Trading bot with support for realtime trading, backtesting, custom strategies and much more.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -797,6 +794,10 @@
 ## Rich Text Format 
 
 - [speps/XInputDotNet](https://github.com/speps/XInputDotNet) - C# wrapper around XInput, works with any Mono or .NET application (eg. Unity3D)
+
+## Roff 
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 ## Ruby 
 
@@ -876,6 +877,7 @@
 
 ## TypeScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer:
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
@@ -889,6 +891,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
