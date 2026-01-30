@@ -1572,6 +1572,7 @@
 
 ## others 
 
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [lydian/beam-python-flink-runner-examples](https://github.com/lydian/beam-python-flink-runner-examples) - Example code for configure Apache Beam Flink Runner with Python SDK
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
