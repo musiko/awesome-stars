@@ -1043,7 +1043,7 @@
 ## go 
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -1063,7 +1063,7 @@
 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -1154,7 +1154,7 @@
 
 ## home-assistant 
 
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 
 ## html 
 
@@ -1454,7 +1454,6 @@
 ## nestjs 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## neural-network 
@@ -1463,7 +1462,6 @@
 
 ## nextjs 
 
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [openshiporg/openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -1827,7 +1825,7 @@
 - [kylemcdonald/SharingFaces](https://github.com/kylemcdonald/SharingFaces) - 
 - [satoruhiga/ofxPolyline2Mesh](https://github.com/satoruhiga/ofxPolyline2Mesh) - ofPolyline to ofMesh
 - [wieden-kennedy/Cinder-KCB2](https://github.com/wieden-kennedy/Cinder-KCB2) - Cinder wrapper for Kinect 2 Common Bridge
-- [kitschpatrol/Kinect2StarterKit](https://github.com/kitschpatrol/Kinect2StarterKit) - A kit to simplify getting started with the Kinect 2 in open Frameworks.
+- [kitschpatrol/kinect-2-starter-kit](https://github.com/kitschpatrol/kinect-2-starter-kit) - A kit to simplify getting started with the Kinect 2 in open Frameworks.
 - [AmnonOwed/CAN_GenerativeTypography](https://github.com/AmnonOwed/CAN_GenerativeTypography) - 26 code examples for my Generative Typography with Processing tutorial on CreativeApplications.net
 - [jesusgollonet/ofxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - openframeworks addon to export animated gifs
 - [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tr
@@ -2265,6 +2263,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
