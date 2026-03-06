@@ -82,6 +82,7 @@
 - [english](#english)
 - [es6](#es6)
 - [express](#express)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -319,7 +320,7 @@
 
 - [idanya/algo-trader](https://github.com/idanya/algo-trader) - Trading bot with support for realtime trading, backtesting, custom strategies and much more.
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 
 ## algorithms 
@@ -652,7 +653,7 @@
 
 ## cryptocurrency 
 
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 
 ## cryptography 
 
@@ -717,7 +718,7 @@
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 
 ## data-structures 
@@ -733,7 +734,7 @@
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) - Actively curated list of awesome BI tools. PRs welcome!
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -912,12 +913,16 @@
 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
+## fastapi 
+
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+
 ## finance 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [austin-starks/NextTrade](https://github.com/austin-starks/NextTrade) - A system that performs algorithmic trading
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
@@ -1371,7 +1376,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -1437,6 +1442,7 @@
 
 ## monitoring 
 
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -1572,7 +1578,7 @@
 
 ## others 
 
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [lydian/beam-python-flink-runner-examples](https://github.com/lydian/beam-python-flink-runner-examples) - Example code for configure Apache Beam Flink Runner with Python SDK
@@ -2138,7 +2144,7 @@
 ## quantitative-finance 
 
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 
@@ -2417,7 +2423,7 @@
 
 - [austin-starks/NextTrade](https://github.com/austin-starks/NextTrade) - A system that performs algorithmic trading
 - [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimisation to livetrading.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - ⚡️ Lightning-fast backtesting engine to find your trading edge.
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
 ## tui 
