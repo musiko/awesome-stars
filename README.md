@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
 - [henki-robotics/robotics_essentials_ros2](https://github.com/henki-robotics/robotics_essentials_ros2) - Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation.
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
@@ -417,7 +418,6 @@
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [Swagger2Markup/swagger2markup](https://github.com/Swagger2Markup/swagger2markup) - A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentat
 - [vin89423/material-design-icons-for-android](https://github.com/vin89423/material-design-icons-for-android) - Material Design Icons for Android. Provide drawable generate from font.
-- [dpa99c/cordova-plugin-firebasex](https://github.com/dpa99c/cordova-plugin-firebasex) - Cordova plugin for Google Firebase
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [schwittlick/LeapMotionP5](https://github.com/schwittlick/LeapMotionP5) - Leap Motion library for Processing including gesture support
@@ -473,6 +473,7 @@
 - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources
 - [ecsyjs/ecsy](https://github.com/ecsyjs/ecsy) - Entity Component System for javascript
 - [gopro/forgejs](https://github.com/gopro/forgejs) - ForgeJS is a javascript framework that unleashes immersive WebVR experiences.
+- [dpa99c/cordova-plugin-firebasex](https://github.com/dpa99c/cordova-plugin-firebasex) - Cordova plugin for Google Firebase
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [keijiro/unite-asia-2019-deck](https://github.com/keijiro/unite-asia-2019-deck) - Presentation deck for my talk at Unite Shanghai/Seoul 2019
 - [doasync/font-ranger](https://github.com/doasync/font-ranger) - Generate the most optimal web font subsets!
@@ -599,7 +600,6 @@
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
@@ -696,6 +696,7 @@
 
 ## Python 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [newton-physics/newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [emcf/thepipe](https://github.com/emcf/thepipe) - Get clean data from tricky documents, powered by vision-language models ⚡
