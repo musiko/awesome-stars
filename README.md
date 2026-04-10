@@ -346,6 +346,7 @@
 
 ## Go 
 
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
 - [terraform-routeros/terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros) - Terraform Provider for Mikrotik RouterOS
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -826,6 +827,7 @@
 
 ## Rust 
 
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [lance-format/lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
