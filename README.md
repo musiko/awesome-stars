@@ -412,7 +412,6 @@
 
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [apache/fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics.
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 - [ByteByteGoHq/coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
@@ -735,6 +734,7 @@
 - [arpanghosh8453/fitbit-web-ui-app](https://github.com/arpanghosh8453/fitbit-web-ui-app) - A Web dashboard where you can view your Fitbit yearly trends as a wellness report and download it as PDF
 - [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
