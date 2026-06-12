@@ -68,6 +68,7 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [LingDong-/skeleton-tracing](https://github.com/LingDong-/skeleton-tracing) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [quiet/quiet](https://github.com/quiet/quiet) - Transmit data with sound. Includes binaries for soundcards and .wav files.
 - [cyburgee/loopFindr](https://github.com/cyburgee/loopFindr) - Loop Findr
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
@@ -95,7 +96,6 @@
 - [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
 - [AlexCSDev/PatreonDownloader](https://github.com/AlexCSDev/PatreonDownloader) - Powerful tool for downloading content posted by creators on patreon.com. Supports content hosted on patreon itself as well as external sites (additional plugins might be required).
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [zalo/MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 - [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to deco
 - [keijiro/FFmpegRecorder](https://github.com/keijiro/FFmpegRecorder) - FFmpeg extension for Unity Recorder
@@ -348,7 +348,7 @@
 
 - [ubiquiti-community/terraform-provider-unifi](https://github.com/ubiquiti-community/terraform-provider-unifi) - Terraform provider for Unifi :satellite:
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
-- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Sync your conversations to the cloud. File issues and requests.
+- [specstoryai/getspecstory](https://github.com/specstoryai/getspecstory) - Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests.
 - [terraform-routeros/terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros) - Terraform Provider for Mikrotik RouterOS
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -434,7 +434,7 @@
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Code, Claude Design, Opus 4.8, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex, Google - Gemini - 3.5 Flash, 3.1 Pro, Antigravity, xA
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [FurkanGozukara/Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - FLUX, Stable Diffusion, SDXL, SD3, LoRA, Fine Tuning, DreamBooth, Training, Automatic1111, Forge WebUI, SwarmUI, DeepFake, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI,
@@ -705,7 +705,7 @@
 ## Python 
 
 - [adefossez/demucs](https://github.com/adefossez/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP "Made with AI", Gemini sparkle) from AI-generated images
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
 - [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -941,7 +941,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [fill3d/fill](https://github.com/fill3d/fill) - Generative fill in 3D.
