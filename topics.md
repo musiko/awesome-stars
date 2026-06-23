@@ -151,7 +151,6 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
-- [natural-language-processing](#natural-language-processing)
 - [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -328,6 +327,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## algorithm 
@@ -707,7 +707,7 @@
 
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11 to C++26 On the Fly | https://changkun.de/modern-cpp/
 - [madelinegannon/example-mediapipe-udp](https://github.com/madelinegannon/example-mediapipe-udp) - Connecting openFrameworks to Google MediaPipe Machine Learning Framework over UDP
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [ssloy/tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
@@ -1564,10 +1564,6 @@
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
 - [ezSQL/ezsql](https://github.com/ezSQL/ezsql) - PHP class to make interacting with a database ridiculusly easy
 
-## natural-language-processing 
-
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
-
 ## nestjs 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
@@ -1839,7 +1835,6 @@
 - [vin89423/material-design-icons-for-android](https://github.com/vin89423/material-design-icons-for-android) - Material Design Icons for Android. Provide drawable generate from font.
 - [vin89423/wget-remote-downloader](https://github.com/vin89423/wget-remote-downloader) - Manage your Linux Wget in website.
 - [dpa99c/cordova-plugin-firebasex](https://github.com/dpa99c/cordova-plugin-firebasex) - Cordova plugin for Google Firebase
-- [IanByun/ofxUltralight-byun](https://github.com/IanByun/ofxUltralight-byun) - openframeworks addon for https://ultralig.ht/
 - [prisonerjohn/ofxAzureKinect](https://github.com/prisonerjohn/ofxAzureKinect) - An openFrameworks addon for the Azure Kinect.
 - [Shailu4u/ng-masonry-grid](https://github.com/Shailu4u/ng-masonry-grid) - Angular 6+ masonry grid with CSS 3 animations on scroll.
 - [MUlt1mate/cron-manager](https://github.com/MUlt1mate/cron-manager) - A PHP cron task manager for MVC-type applications
