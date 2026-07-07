@@ -136,7 +136,7 @@
 - [f15gdsy/2D-Light-of-Sight-Unity](https://github.com/f15gdsy/2D-Light-of-Sight-Unity) - A plugin for creating 2D lighting & shadows, and line of sight effects in Unity3d.
 - [keijiro/KvantWall](https://github.com/keijiro/KvantWall) - GPU accelerated object array animator for Unity
 - [i-saint/Unity5Effects](https://github.com/i-saint/Unity5Effects) - 
-- [DecSmith42/MaterialUI](https://github.com/DecSmith42/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
+- [Invex-Games/MaterialUI](https://github.com/Invex-Games/MaterialUI) - MaterialUI is a UI kit for Unity that follows Google's official material design guidelines.
 - [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 - [Chman/SMAA](https://github.com/Chman/SMAA) - A highly customizable implementation of Subpixel Morphological Antialiasing for Unity
 - [keijiro/VJ02](https://github.com/keijiro/VJ02) - VJ project for Channel #8
@@ -312,6 +312,7 @@
 
 ## CSS 
 
+- [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [nessgor/fps-hk-qrcode](https://github.com/nessgor/fps-hk-qrcode) - A QR code generator compliant to The Common QR Code Specification for Retail Payments in Hong Kong
 - [popcorn-time/popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 
@@ -612,7 +613,6 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) - 📙 Awesome Data Catalogs and Observability Platforms.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
-- [r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface elements of ObsidianMD
 - [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified) - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -799,7 +799,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [bkane1/gpt3-instruct-sandbox](https://github.com/bkane1/gpt3-instruct-sandbox) - Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
