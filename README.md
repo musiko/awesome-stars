@@ -612,7 +612,7 @@
 - [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified) - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI & system design, join this newsletter 👇
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI engineering & system design, join this newsletter 👇
 - [Coder-World04/Tech-Interview-Important-Topics-and-Techniques](https://github.com/Coder-World04/Tech-Interview-Important-Topics-and-Techniques) - This repository contains everything you need to become tech interview Ready with most important tips and techniques
 - [Coder-World04/Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
 - [hetznercloud/awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud
@@ -751,7 +751,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PolicyEngine/policyengine-uk](https://github.com/PolicyEngine/policyengine-uk) - An open-source static tax-benefit microsimulation model for the UK.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security Platform trusted by thousands to automate security and compliance in any cloud environment. With thousands of ready-to-use checks and compliance frameworks, delivers
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [CppCon/CppCon2017](https://github.com/CppCon/CppCon2017) - Slides and other materials from CppCon 2017
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
