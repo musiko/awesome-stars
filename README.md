@@ -285,7 +285,6 @@
 - [cadet-salzburg/_2RealGStreamerWrapper](https://github.com/cadet-salzburg/_2RealGStreamerWrapper) - Easy to use wrapper for GStreamer to play videos and audio for C++
 - [itotaka/ofxTimeline_backup__](https://github.com/itotaka/ofxTimeline_backup__) - lightweight timeline tools for openFrameworks
 - [flight404/Eyeo2012](https://github.com/flight404/Eyeo2012) - Projects I created for my talk at the Eyeo Festival.
-- [perfume-dev/example-openFrameworks](https://github.com/perfume-dev/example-openFrameworks) - 
 - [AS3NUI/airkinect-2-core](https://github.com/AS3NUI/airkinect-2-core) - AIRKinect 2.0 Core
 - [kylemcdonald/AppropriatingNewTechnologies](https://github.com/kylemcdonald/AppropriatingNewTechnologies) - A half-semester class at ITP.
 - [patriciogonzalezvivo/ofxFX](https://github.com/patriciogonzalezvivo/ofxFX) - Unlocking the GPU Power on openFrameworks with this add-on for that make easy to use GLSL Shaders
@@ -432,7 +431,7 @@
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -821,6 +820,7 @@
 - [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [adammhaile/RPi-LPD8806](https://github.com/adammhaile/RPi-LPD8806) - DEPRECATED!!! Checkout the new library, BiblioPixel - Follow the linked website.
+- [perfume-dev/example-openFrameworks](https://github.com/perfume-dev/example-openFrameworks) - openFrameworks 0.12.1 examples from the 2012 Perfume Global Site Project, including BVH motion visualization.
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 
 ## Rich Text Format 
