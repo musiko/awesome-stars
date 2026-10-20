@@ -231,7 +231,7 @@
 - [kylemcdonald/SharingFaces](https://github.com/kylemcdonald/SharingFaces) - 
 - [satoruhiga/ofxPolyline2Mesh](https://github.com/satoruhiga/ofxPolyline2Mesh) - ofPolyline to ofMesh
 - [wieden-kennedy/Cinder-KCB2](https://github.com/wieden-kennedy/Cinder-KCB2) - Cinder wrapper for Kinect 2 Common Bridge
-- [kitschpatrol/kinect-2-starter-kit](https://github.com/kitschpatrol/kinect-2-starter-kit) - A kit to simplify getting started with the Kinect 2 in open Frameworks.
+- [kitschpatrol/kinect-2-starter-kit](https://github.com/kitschpatrol/kinect-2-starter-kit) - A kit to simplify getting started with the Kinect 2 in openFrameworks.
 - [jesusgollonet/ofxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - openframeworks addon to export animated gifs
 - [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tr
 - [armadillu/ofxGoogleAnalytics](https://github.com/armadillu/ofxGoogleAnalytics) - OpenFrameworks addon to track Screens/Events/Exceptions on Google Analytics using their Measurement Protocol Developer Guide
@@ -573,7 +573,7 @@
 
 ## Mathematica 
 
-- [AndrewHazelden/Panoramic_Geometry_Collection](https://github.com/AndrewHazelden/Panoramic_Geometry_Collection) - This collection of panoramic geometry files can be handy for previewing immersive imagery in your 3D program.
+- [Lightfielder/Panoramic_Geometry_Collection](https://github.com/Lightfielder/Panoramic_Geometry_Collection) - This collection of panoramic geometry files can be handy for previewing immersive imagery in your 3D program.
 
 ## Max 
 
@@ -686,6 +686,7 @@
 ## PLpgSQL 
 
 - [nearform/temporal_tables](https://github.com/nearform/temporal_tables) - Postgresql temporal_tables extension in PL/pgSQL, without the need for external c extension.
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 
 ## Processing 
 
@@ -695,13 +696,14 @@
 
 ## Python 
 
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) - [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
 - [vlm-run/vlmrun-hub](https://github.com/vlm-run/vlmrun-hub) - A hub for various industry-specific schemas to be used with VLMs.
 - [jeremyipark/vision-demos](https://github.com/jeremyipark/vision-demos) - Fun real-world computer vision demos!
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [adefossez/demucs](https://github.com/adefossez/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
 - [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) - Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
@@ -787,7 +789,7 @@
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
-- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
 - [garystafford/kafka-connect-msk-demo](https://github.com/garystafford/kafka-connect-msk-demo) - For a series of posts on Amazon MSK, Amazon EKS, and Amazon EMR
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -857,7 +859,6 @@
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [JelteF/pg_human](https://github.com/JelteF/pg_human) - 
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
